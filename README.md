@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumbo-programmer" alt="dumbo-programmer" /></a> </p>
 
-- 👯 I’m would love to work on **open source projects**
+- 👯 I would love to work on **open source projects**
 
 - Most of my projects are available in [https://github.com/Dumbo-programmer](https://github.com/Dumbo-programmer)
 
