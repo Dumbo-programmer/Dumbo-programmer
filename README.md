@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **tawhidbinomar@gmail.com**
 
+_Actively maintained projects_:
+**<a hrer="https://dist.programmerboi.repl.co/">Multilingual Dictionary</a>**
+**<a href="https://dumbo-programmer.github.io/osp.github.io/">OSP</a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ltxisnotlt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ltxisnotlt" height="30" width="40" /></a>
