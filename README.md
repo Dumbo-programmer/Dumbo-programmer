@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumbo-programmer" alt="dumbo-programmer" /></a> </p>
 
 - 👯 I would love to work on **open source projects**
+#ABOUT ME
+- I'm don't go out(barely like once a month).Sit infront of my computer 8 hours day living inside my mom's basement and yes I use arch btw
 
 - Most of my projects are available in [https://github.com/Dumbo-programmer](https://github.com/Dumbo-programmer)
 
