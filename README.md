@@ -12,7 +12,7 @@
 
 - Most of my projects are available in [https://github.com/Dumbo-programmer](https://github.com/Dumbo-programmer)
 
-- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
+- 📝 I regularly write articles on [https://github.com/Dumbo-programmer](https://dev.to/)
 
 - 💬 Ask me about **anything you would like to**
 
