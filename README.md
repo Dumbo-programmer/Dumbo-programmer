@@ -8,7 +8,7 @@
 
 - 👯 I would love to work on **open source projects**
 
-- I'm don't go out(barely like once a month).Sit infront of my computer 8 hours day living inside my mom's basement and yes I use arch btw
+- I'm don't go out(barely like once a month).I Sit infront of my computer 8 hours day living inside my mom's basement and yes I use arch btw
 
 - Most of my projects are available in [https://github.com/Dumbo-programmer](https://github.com/Dumbo-programmer)
 
@@ -21,7 +21,6 @@
 _Actively maintained projects_:
 **<a href="https://dist.programmerboi.repl.co/">Multilingual Dictionary</a>**
 
-**<a href="https://dumbo-programmer.github.io/osp.github.io/">OSP</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
