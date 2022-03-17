@@ -43,9 +43,9 @@ _Actively maintained projects_:
 
 <div align="center">
 <img src="https://img.shields.io/badge/Linux_From_Scratch-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-F96A00?style=for-the-badge&logo=ubuntu&logoColor=black">    
 <img src="https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white">
 <img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black">
 </div>
