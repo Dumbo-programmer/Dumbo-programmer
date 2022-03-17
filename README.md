@@ -38,7 +38,7 @@ _Actively maintained projects_:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumbo-programmer&" alt="dumbo-programmer" /></p>
 
 <h4 align="center">
-    Operating Systems I daily drived
+    Operating Systems I daily drove
 </h4>
 
 <div align="center">
