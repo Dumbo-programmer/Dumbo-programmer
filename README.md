@@ -1,9 +1,9 @@
 <h1 align="center">こんにちは, タウヒードです、ようこそ！</h1>
 <h3 align="center">I'm an impatient explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dumbo-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="dumbo-programmer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dumbo-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="dumbo-programmer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumbo-programmer" alt="dumbo-programmer" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumbo-programmer" alt="dumbo-programmer" /></a> </p>
 <h1 align="center">ABOUT ME</h1>
 
 - 👯 I would love to work on **open source projects**
