@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumbo-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="dumbo-programmer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumbo-programmer" alt="dumbo-programmer" /></a> </p>
-<h1 align="center">#ABOUT ME</h1>
+<h1 align="center">ABOUT ME</h1>
 
 - 👯 I would love to work on **open source projects**
 
@@ -36,3 +36,16 @@ _Actively maintained projects_:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumbo-programmer&show_icons=true&locale=en" alt="dumbo-programmer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumbo-programmer&" alt="dumbo-programmer" /></p>
+
+<h4 align="center">
+    Operating Systems I daily drived
+</h4>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Linux_From_Scratch-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white">
+<img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black">
+</div>
