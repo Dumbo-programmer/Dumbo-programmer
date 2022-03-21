@@ -24,7 +24,8 @@ _Actively maintained projects_:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ltxisnotlt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ltxisnotlt" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/tawhid" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+    <a href="https://codepen.io/ltxisnotlt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ltxisnotlt" height="30" width="40" /></a>
 <a href="https://dev.to/dumboprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dumbo-programmer" height="30" width="40" /></a>
 <a href="https://twitter.com/tawhid_omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tawhid_omar" height="30" width="40" /></a>
 </p>
