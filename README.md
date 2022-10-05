@@ -20,7 +20,7 @@
 
 _Actively maintained projects_:
 **<a href="https://dist.programmerboi.repl.co/">Multilingual Dictionary</a>**
-
+**PlayNux OS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
