@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tawhidbinomar@gmail.com**
 
-_Actively maintained projects_:
+_Rarely maintained projects_:
 **<a href="https://dist.programmerboi.repl.co/">Multilingual Dictionary</a>**
 **PlayNux OS**
 
