@@ -13,10 +13,10 @@
 - 💬 Ask me about **anything you would like to**
 
 - 📫 How to reach me:
-- - Email: **tawhidbinomar@gmail.com**
+  - [Email](tawhidbinomar@gmail.com)
   - Discord
   - Reddit
-  - Slack
+  - [Slack](https://hackclub.slack.com/team/U07BN35AMJM)
   - 
 
 
