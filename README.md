@@ -14,9 +14,9 @@
 
 - 📫 How to reach me:
   - [Email](tawhidbinomar@gmail.com)
-  - Discord
+  - [Discord](https://discord.com/users/707079802531872769)
   - Reddit
-  - [Slack](https://hackclub.slack.com/team/U07BN35AMJM)
+  - [Slack](https://app.slack.com/client/T0266FRGM/C0266FRGT)
   - 
 
 
