@@ -2,7 +2,7 @@
 <h3 align="center">I'm an impatient explorer 🚀</h3>
 
 # 💫 About Me:
-Most of my projects are available at github.com/Dumbo-programmer<br>📝 I regularly write articles on dev.to/dumboprogrammer<br>💬 Ask me about anything you would like to<br>📫 Reach me via:<br>Email: tawhidbinomar@gmail.com<br>Discord: Join my Discord<br>Socials: Twitter | CodePen | Dev.to
+Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write articles on dev.to/dumboprogrammer<br>💬 Ask me about anything you would like to<br>📫 Reach me via:<br>Email: tawhidbinomar@gmail.com<br>
 
 
 ## 🌐 Socials:
