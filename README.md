@@ -15,6 +15,11 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 ![](https://nirzak-streak-stats.vercel.app/?user=Dumbo-programmer&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbo-programmer&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumbo-programmer&show_icons=true&locale=en&layout=compact" alt="dumbo-programmer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumbo-programmer&show_icons=true&locale=en" alt="dumbo-programmer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumbo-programmer&" alt="dumbo-programmer" /></p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dumbo-programmer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -26,6 +31,9 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dumbo-programmer&icon=0&color=2)](https://visitcount.itsvg.in)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tawhid) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Dumboprogrammer) 
