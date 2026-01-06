@@ -15,11 +15,11 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 ![](https://nirzak-streak-stats.vercel.app/?user=Dumbo-programmer&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbo-programmer&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumbo-programmer&show_icons=true&locale=en&layout=compact" alt="dumbo-programmer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dumbo-programmer&show_icons=true&locale=en&layout=compact" alt="Dumbo-programmer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumbo-programmer&show_icons=true&locale=en" alt="dumbo-programmer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dumbo-programmer&show_icons=true&locale=en" alt="Dumbo-programmer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumbo-programmer&" alt="dumbo-programmer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dumbo-programmer&" alt="Dumbo-programmer" /></p>
 
 ## 🏆 GitHub Trophies
 
