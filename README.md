@@ -31,6 +31,11 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 [![](https://visitcount.itsvg.in/api?id=Dumbo-programmer&icon=0&color=2)](https://visitcount.itsvg.in)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Underrated Open Source Tools That Will Actually Make You a Better Developer](https://dev.to/dumboprogrammer/7-underrated-open-source-tools-that-will-actually-make-you-a-better-developer-8lm)
+- [Why We as Programmers Shouldn’t Use AI Art](https://dev.to/dumboprogrammer/why-we-as-programmers-shouldnt-use-ai-art-3fnj)
+- [What tech stacks do you guys use ?](https://dev.to/dumboprogrammer/what-tech-stacks-do-you-guys-use--5g85)
+- [The Rise of &quot;Objective&quot; Opinions in Tech Content, And Why You Should Care](https://dev.to/dumboprogrammer/the-rise-of-objective-opinions-in-tech-content-and-why-you-should-care-5ggi)
+- [Brainfuck in a nutshell. &lpar;and Why Would You Want to Learn It&rpar;](https://dev.to/dumboprogrammer/brainfuck-in-a-nutshell-and-why-would-you-want-to-learn-it-18in)
 <!-- BLOG-POST-LIST:END -->
 
   ## 💰 You can help me by Donating
