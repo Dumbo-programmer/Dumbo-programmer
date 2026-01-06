@@ -1,6 +1,8 @@
 <h1 align="center">こんにちは, タウヒードです、ようこそ！</h1>
 <h3 align="center">I'm an impatient explorer 🚀</h3>
+
 ![](https://komarev.com/ghpvc/?username=Dumbo-programmer&color=ff69b4
+
 # 💫 About Me:
 Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write articles on dev.to/dumboprogrammer<br>💬 Ask me about anything you would like to<br>📫 Reach me via:<br>Email: tawhidbinomar@gmail.com<br>
 
