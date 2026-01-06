@@ -20,7 +20,9 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumbo-programmer&show_icons=true&locale=en" alt="dumbo-programmer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumbo-programmer&" alt="dumbo-programmer" /></p>
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Dumbo-programmer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
