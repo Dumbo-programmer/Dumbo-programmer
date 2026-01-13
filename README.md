@@ -7,8 +7,8 @@
 Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write articles on dev.to/dumboprogrammer<br>💬 Ask me about anything you would like to<br>📫 Reach me via:<br>Email: tawhidbinomar@gmail.com<br>
 
 # 💻 Building:
-![Calcora](https://calcoralive.netlify.app/)
-![Pyxl Chronicles](https://pyxl-chronicles.netlify.app/)
+Calcora![](https://calcoralive.netlify.app/)
+Pyxl Chronicles![](https://pyxl-chronicles.netlify.app/)
 ![VocalGuard AI](https://vocalguard.netlify.app/)
 ![Team Nokkhotropoth](https://www.facebook.com/TeamNokkhotropoth/about/)
 ![ConceptVector](https://conceptvector.netlify.app/)
