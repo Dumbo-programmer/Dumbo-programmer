@@ -13,8 +13,8 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 * 🛡️ **[VocalGuard AI](https://vocalguard.netlify.app/)** — AI-powered voice security.
 * 🌌 **[Team Nokkhotropoth](https://www.facebook.com/TeamNokkhotropoth/about/)** — Robotics and engineering team.
 * 📐 **[ConceptVector](https://conceptvector.netlify.app/)** — Tool to precisely assess topics and explain concepts.
-* 🖥️ **[](https://github.com/Dumbo-programmer/SehTajDesk)** — Minimal Desktop Project Manager
-* 🆎 **[](https://github.com/Dumbo-programmer/Latex-code-generator/tree/main)** — Simple latex code generator
+* 🖥️ **[SehTajDesk](https://github.com/Dumbo-programmer/SehTajDesk)** — Minimal Desktop Project Manager
+* 🆎 **[Latexify](https://github.com/Dumbo-programmer/Latex-code-generator/tree/main)** — Simple latex code generator
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rennn._.nnn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tawhiddayo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renscule) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tawhidbinomar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tawhid_omar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tawhid-Bin-Omar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tawhidbinomar@gmail.com) 
