@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは, タウヒードです、ようこそ！</h1>
+<h1 align="center">Hello I'm Tawhid！</h1>
 <h3 align="center">I'm an impatient explorer 🚀</h3>
 
 ![](https://komarev.com/ghpvc/?username=Dumbo-programmer&color=ff69b4)
