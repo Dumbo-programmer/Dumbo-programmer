@@ -1,4 +1,4 @@
-<h1 align="center">"Because Fuck you, Linus Torvalds" what I say to myself to keep going</h1>
+<h1 align="center">"Terrence Andrew Davis is who I'll be" is what I say to myself to keep going</h1>
 <h3 align="center">Hey I'm Tawhid!!</h3>
 
 ![](https://komarev.com/ghpvc/?username=Dumbo-programmer&color=ff69b4)
