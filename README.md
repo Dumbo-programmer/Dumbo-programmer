@@ -10,7 +10,7 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 
 *  **[Calcora](https://calcoralive.netlify.app/)** — Precision calculation tool.
 *  **[Noir OS](https://dumbo-programmer.github.io/NoirOS/)** — Hobby OS.
-*  **[Aleph Flight Controller Stack](https://github.com/Dumbo-programmer/Project-Aleph)** — Flight firmware, live telemetry dashboard, simulator.
+*  **[Aleph Flight Controller Stack](https://dumbo-programmer.github.io/Project-Aleph/#docs)** — Flight firmware, live telemetry dashboard, simulator.
 *  **[IK Solver](https://dumbo-programmer.github.io/IKSolver/)** — IK Solver Library.
 *  **[Pyxl Chronicles](https://pyxl-chronicles.netlify.app/)** — Indie Game Development Studio.
 *  **[VocalGuard AI](https://vocalguard.netlify.app/)** — AI-powered voice security.
