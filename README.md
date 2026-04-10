@@ -12,6 +12,7 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 *  **[Noir OS](https://dumbo-programmer.github.io/NoirOS/)** — Hobby OS.
 *  **[Aleph Flight Controller Stack](https://dumbo-programmer.github.io/Project-Aleph/#docs)** — Flight firmware, live telemetry dashboard, simulator.
 *  **[IK Solver](https://dumbo-programmer.github.io/IKSolver/)** — IK Solver Library.
+*  **[Renboko Engine](https://dumbo-programmer.github.io/RenbokoEngine/)** — Simple frankenstein hobby engine
 *  **[Pyxl Chronicles](https://pyxl-chronicles.netlify.app/)** — Indie Game Development Studio.
 *  **[VocalGuard AI](https://vocalguard.netlify.app/)** — AI-powered voice security.
 *  **[Team Nokkhotropoth](https://www.facebook.com/TeamNokkhotropoth/about/)** — Robotics and engineering team.
