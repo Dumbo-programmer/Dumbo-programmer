@@ -17,7 +17,7 @@ Most of my projects are available at github.com/Dumbo-programmer<br>📝 I write
 *  **[VocalGuard AI](https://vocalguard.netlify.app/)** — AI-powered voice security.
 *  **[Team Nokkhotropoth](https://www.facebook.com/TeamNokkhotropoth/about/)** — Robotics and engineering team.
 *  **[ConceptVector](https://conceptvector.netlify.app/)** — Tool to precisely assess topics and explain concepts.
-*  **[SehTajDesk](https://github.com/Dumbo-programmer/SehTajDesk)** — Minimal Desktop Project Manager
+*  **[SehTajDesk](https://dumbo-programmer.github.io/SehTajDesk/)** — Minimal Desktop Project Manager
 *  **[Latexify](https://github.com/Dumbo-programmer/Latex-code-generator/tree/main)** — Simple latex code generator
 
 ## 🌐 Socials:
